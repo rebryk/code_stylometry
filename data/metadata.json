@@ -1,0 +1,418 @@
+{
+  "competitions": [
+    {
+      "year": "2008",
+      "round": [
+        {
+          "desc": "2008 Qualification Round",
+          "contest": "32013",
+          "numPlayers": "7154",
+          "problems": [
+            {
+              "name": "Saving the Universe",
+              "id": "24480"
+            },
+            {
+              "name": "Train Timetable",
+              "id": "24481"
+            },
+            {
+              "name": "Fly Swatter",
+              "id": "24479"
+            }
+          ]
+        },
+        {
+          "desc": "2008 round 1A",
+          "contest": "32016",
+          "numPlayers": "2394",
+          "problems": [
+            {
+              "name": "Minimum Scalar Product",
+              "id": "24484"
+            },
+            {
+              "name": "Milkshakes",
+              "id": "24482"
+            },
+            {
+              "name": "Numbers",
+              "id": "24483"
+            }
+          ]
+        },
+        {
+          "desc": "2008 round 1B",
+          "contest": "32017",
+          "numPlayers": "1715",
+          "problems": [
+            {
+              "name": "Crop Triangles",
+              "id": "24437"
+            },
+            {
+              "name": "Number Sets",
+              "id": "24485"
+            },
+            {
+              "name": "Mousetrap",
+              "id": "24489"
+            }
+          ]
+        },
+        {
+          "desc": "2008 round 1C",
+          "contest": "32015",
+          "numPlayers": "2240",
+          "problems": [
+            {
+              "name": "Text Messaging Outrage",
+              "id": "24486"
+            },
+            {
+              "name": "Ugly Numbers",
+              "id": "24487"
+            },
+            {
+              "name": "Increasing Speed Limits",
+              "id": "24488"
+            }
+          ]
+        },
+        {
+          "desc": "2008 round 2",
+          "contest": "32001",
+          "numPlayers": "1817",
+          "problems": [
+            {
+              "name": "Cheating a Boolean Tree",
+              "id": "24439"
+            },
+            {
+              "name": "Triangle Areas",
+              "id": "24440"
+            },
+            {
+              "name": "Star Wars",
+              "id": "24441"
+            }
+          ]
+        },
+        {
+          "desc": "2008 round 3",
+          "contest": "32002",
+          "numPlayers": "882",
+          "problems": [
+            {
+              "name": "How Big Are the Pockets?",
+              "id": "24444"
+            },
+            {
+              "name": "Portal",
+              "id": "24443"
+            },
+            {
+              "name": "No Cheating",
+              "id": "24446"
+            }
+          ]
+        },
+        {
+          "desc": "2008 APAC semifinals",
+          "contest": "32005",
+          "numPlayers": "152",
+          "problems": [
+            {
+              "name": "What are Birds?",
+              "id": "24456"
+            },
+            {
+              "name": "Apocalypse Soon",
+              "id": "24455"
+            },
+            {
+              "name": "Millionaire",
+              "id": "24457"
+            }
+          ]
+        },
+        {
+          "desc": "2008 AMER semifinals",
+          "contest": "32008",
+          "numPlayers": "98",
+          "problems": [
+            {
+              "name": "Mixing Bowls",
+              "id": "24463"
+            },
+            {
+              "name": "Code Sequence",
+              "id": "24461"
+            },
+            {
+              "name": "Test Passing Probability",
+              "id": "24459"
+            }
+          ]
+        },
+        {
+          "desc": "2008 EMEA semifinals",
+          "contest": "32010",
+          "numPlayers": "203",
+          "problems": [
+            {
+              "name": "Scaled Triangle",
+              "id": "24464"
+            },
+            {
+              "name": "Painting a Fence",
+              "id": "24467"
+            },
+            {
+              "name": "Rainbow Trees",
+              "id": "24465"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "round": [
+        {
+          "desc": "2009 Qualification Round",
+          "contest": "90101",
+          "numPlayers": "8289",
+          "problems": [
+            {
+              "name": "Alien Language",
+              "id": "116101"
+            },
+            {
+              "name": "Watersheds",
+              "id": "111101"
+            },
+            {
+              "name": "Welcome to Code Jam",
+              "id": "122101"
+            }
+          ]
+        },
+        {
+          "desc": "2009 round 1A",
+          "contest": "188266",
+          "numPlayers": "2007",
+          "problems": [
+            {
+              "name": "Multi-base happiness",
+              "id": "168107"
+            },
+            {
+              "name": "Crossing the Road",
+              "id": "144111"
+            },
+            {
+              "name": "Collecting Cards",
+              "id": "190103"
+            }
+          ]
+        },
+        {
+          "desc": "2009 round 1B",
+          "contest": "186264",
+          "numPlayers": "2792",
+          "problems": [
+            {
+              "name": "Decision Tree",
+              "id": "171116"
+            },
+            {
+              "name": "The Next Number",
+              "id": "203106"
+            },
+            {
+              "name": "Square Math",
+              "id": "208101"
+            }
+          ]
+        },
+        {
+          "desc": "2009 round 1C",
+          "contest": "189252",
+          "numPlayers": "2294",
+          "problems": [
+            {
+              "name": "All Your Base",
+              "id": "171121"
+            },
+            {
+              "name": "Center of Mass",
+              "id": "156117"
+            },
+            {
+              "name": "Bribe the Prisoners",
+              "id": "192120"
+            }
+          ]
+        },
+        {
+          "desc": "2009 round 2",
+          "contest": "204113",
+          "numPlayers": "2002",
+          "problems": [
+            {
+              "name": "Crazy Rows",
+              "id": "241102"
+            },
+            {
+              "name": "A Digging Problem",
+              "id": "254101"
+            },
+            {
+              "name": "Stock Charts",
+              "id": "244101"
+            }
+          ]
+        },
+        {
+          "desc": "2009 round 3",
+          "contest": "243103",
+          "numPlayers": "296",
+          "problems": [
+            {
+              "name": "EZ-Sokoban",
+              "id": "291102"
+            },
+            {
+              "name": "Alphabetomials",
+              "id": "290101"
+            },
+            {
+              "name": "Football Team",
+              "id": "299101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "round": [
+        {
+          "desc": "2010 Qualification Round",
+          "contest": "433101",
+          "numPlayers": "10192",
+          "problems": [
+            {
+              "name": "Snapper Chain",
+              "id": "502103"
+            },
+            {
+              "name": "Fair Warning",
+              "id": "506101"
+            },
+            {
+              "name": "Theme Park",
+              "id": "509101"
+            }
+          ]
+        },
+        {
+          "desc": "2010 round 1A",
+          "contest": "544101",
+          "numPlayers": "2155",
+          "problems": [
+            {
+              "name": "Rotate",
+              "id": "567116"
+            },
+            {
+              "name": "Make it Smooth",
+              "id": "566101"
+            },
+            {
+              "name": "Number Game",
+              "id": "583114"
+            }
+          ]
+        },
+        {
+          "desc": "2010 round 1B",
+          "contest": "635101",
+          "numPlayers": "3139",
+          "problems": [
+            {
+              "name": "File Fix-it",
+              "id": "563117"
+            },
+            {
+              "name": "Picking Up Chicks",
+              "id": "542118"
+            },
+            {
+              "name": "Your Rank is Pure",
+              "id": "598111"
+            }
+          ]
+        },
+        {
+          "desc": "2010 round 1C",
+          "contest": "619102",
+          "numPlayers": "3006",
+          "problems": [
+            {
+              "name": "Rope Intranet",
+              "id": "599117"
+            },
+            {
+              "name": "Load Testing",
+              "id": "551112"
+            },
+            {
+              "name": "Making Chess Boards",
+              "id": "563116"
+            }
+          ]
+        },
+        {
+          "desc": "2010 round 2",
+          "contest": "635102",
+          "numPlayers": "1985",
+          "problems": [
+            {
+              "name": "Elegant Diamond",
+              "id": "694485"
+            },
+            {
+              "name": "World Cup 2010",
+              "id": "698485"
+            },
+            {
+              "name": "Bacteria",
+              "id": "706485"
+            }
+          ]
+        },
+        {
+          "desc": "2010 round 3",
+          "contest": "639102",
+          "numPlayers": "370",
+          "problems": [
+            {
+              "name": "De-RNG-ed",
+              "id": "724485"
+            },
+            {
+              "name": "Fence",
+              "id": "760487"
+            },
+            {
+              "name": "Hot Dog Proliferation",
+              "id": "746490"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
