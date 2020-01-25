@@ -37,7 +37,7 @@ The `features` package contains a few useful functions:
 <br>Usage example: `df = build_dataset(samples)`
 
 ### Training and validation
-You can open [De-anonymizing Programmers via Code Stylometry.ipynb](De-anonymizing Programmers via Code Stylometry.ipynb) to see how the methods above are used
+You can open [De-anonymizing Programmers via Code Stylometry.ipynb](De-anonymizing%20Programmers%20via%20Code%20Stylometry.ipynb) to see how the methods above are used
 to de-anonymize 100 users with 9 code files each.
 
 [CatBoost](http://catboost.ai/) is used to train the model. 
